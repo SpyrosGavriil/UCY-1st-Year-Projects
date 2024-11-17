@@ -12,8 +12,8 @@ This repository showcases Java coding assignments completed during my first year
 ### 2. 🧩 N-Puzzle
 > Implementation of the classic N-Puzzle game with a focus on search algorithms to find optimal solutions. This project strengthens algorithmic thinking. It also invoves the use of StdDraw for the stdlib.jar library for the game interface.
 
-### 3. 🔢 Sudoku Solver
-> A recursive backtracking algorithm designed to solve Sudoku puzzles, ensuring valid configurations across rows, columns, and 3x3 blocks.
+### 3. 🔢 Sudoku Game
+> A simple interface to play Sudoku, allowing users to solve puzzles interactively.
 
 ---
 
